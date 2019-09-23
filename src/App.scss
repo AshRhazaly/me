@@ -1,0 +1,61 @@
+.App {
+  &-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10 px;
+    height: 80vh;
+
+    &--avatar {
+      object-fit: cover;
+      border: 3.5px solid #000000;
+      border-radius: 50%;
+      width: 150px;
+      height: 150px;
+      -webkit-box-shadow: 0px 0px 3px 6px rgba(75, 53, 53, 0.75);
+      -moz-box-shadow: 0px 0px 3px 6px rgba(75, 53, 53, 0.75);
+      box-shadow: 0px 0px 5px 0px rgba(75, 53, 53, 1);
+      transition: all 0.2s ease-in-out;
+
+      &:hover {
+        transform: scale(1.15);
+      }
+    }
+
+    &--name {
+      margin-top: 10px;
+      font-size: 5rem;
+      font-weight: 600;
+      letter-spacing: 0.5rem;
+      text-shadow: 0px 3px 6px rgba(75, 53, 53, 1);
+    }
+
+    &--text {
+      margin-top: 10px;
+      font-size: 3rem;
+      text-shadow: 0px 3px 6px rgba(87, 83, 83, 1);
+      letter-spacing: 0.2rem;
+    }
+
+    &--socialMedia {
+      padding-top: 2rem;
+
+      &-github {
+        height: 5rem;
+        width: 5rem;
+        padding-right: 5rem;
+        filter: drop-shadow(3px 3px 5px #443B3B);
+
+      }
+
+      &-linkedIn {
+        height: 5rem;
+        width: 5rem;
+        padding-left: 5rem;
+        filter: drop-shadow(3px 3px 5px #443B3B);
+
+      }
+    }
+  }
+}
