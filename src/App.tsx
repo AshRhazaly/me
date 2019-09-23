@@ -12,14 +12,22 @@ const App: React.FC = () => {
         <span className="App-header--name">ASH</span>
         <span className="App-header--text">I like tinkering with stuff.</span>
         <span className="App-header--socialMedia">
-          <a href="https://github.com/AshRhazaly/" target="_blank">
+          <a
+            href="https://github.com/AshRhazaly/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img
               className="App-header--socialMedia-github"
               src={github}
               alt="Github logo"
             />
           </a>
-          <a href="https://www.linkedin.com/in/ash-r-9445987b/" target="_blank">
+          <a
+            href="https://www.linkedin.com/in/ash-r-9445987b/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img
               className="App-header--socialMedia-linkedIn"
               src={linkedIn}
