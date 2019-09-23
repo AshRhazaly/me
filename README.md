@@ -1,5 +1,8 @@
 # Personal Website
 
+https://ashrhazaly.github.io/personal-website/.
+
+<br>
 Mostly just fooling around on this website.
 
 <br>
