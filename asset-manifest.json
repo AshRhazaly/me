@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.e5b8b7de.chunk.css",
+    "main.css": "/personal-website/static/css/main.b2c3a60a.chunk.css",
     "main.js": "/personal-website/static/js/main.5e5112c2.chunk.js",
     "main.js.map": "/personal-website/static/js/main.5e5112c2.chunk.js.map",
     "runtime~main.js": "/personal-website/static/js/runtime~main.538c3a54.js",
@@ -8,9 +8,9 @@
     "static/js/2.e05f6d77.chunk.js": "/personal-website/static/js/2.e05f6d77.chunk.js",
     "static/js/2.e05f6d77.chunk.js.map": "/personal-website/static/js/2.e05f6d77.chunk.js.map",
     "index.html": "/personal-website/index.html",
-    "precache-manifest.3bb82b43bc5d279c7047208616504f65.js": "/personal-website/precache-manifest.3bb82b43bc5d279c7047208616504f65.js",
+    "precache-manifest.3fdc3106d9d1fcf50ec23d409ce038ae.js": "/personal-website/precache-manifest.3fdc3106d9d1fcf50ec23d409ce038ae.js",
     "service-worker.js": "/personal-website/service-worker.js",
-    "static/css/main.e5b8b7de.chunk.css.map": "/personal-website/static/css/main.e5b8b7de.chunk.css.map",
+    "static/css/main.b2c3a60a.chunk.css.map": "/personal-website/static/css/main.b2c3a60a.chunk.css.map",
     "static/media/gitlogo.svg": "/personal-website/static/media/gitlogo.76d344f0.svg",
     "static/media/linkedin-logo.svg": "/personal-website/static/media/linkedin-logo.8220d480.svg",
     "static/media/profile-hs.jpg": "/personal-website/static/media/profile-hs.2c2364e8.jpg"
