@@ -28,6 +28,12 @@ const App: React.FC = () => {
           </a>
         </span>
       </header>
+      <main className="App-contact">
+        <button className="App-contact--button">GET IN TOUCH</button>
+        {/* <section className="App-contact--form">
+          <form action=""></form>
+        </section> */}
+      </main>
     </div>
   );
 };
